@@ -2,7 +2,7 @@
 import crypto from 'node:crypto';
 import fs from 'node:fs';
 const KEY_ID = process.env.ASC_KEY_ID || '4YM72H56S5';
-const ISSUER = process.env.ASC_ISSUER_ID || '389ec6f6-c157-47bf-be2d-e33abdb16310';
+const ISSUER = process.env.ASC_ISSUER_ID || '';
 const P8 = process.env.ASC_KEY_PATH || `D:/download/AuthKey_${KEY_ID}.p8`;
 const b64u = (b) => Buffer.from(b).toString('base64url');
 export function token() {

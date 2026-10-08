@@ -1,0 +1,105 @@
+{
+"fur": {
+"orange": {
+"base": "#f09a45",
+"belly": "#fbe3bf",
+"stripe": "#c9692a"
+},
+"ginger": {
+"base": "#ff8a2a",
+"belly": "#ffe0b8",
+"stripe": "#d9631a"
+},
+"tabby": {
+"base": "#a98d66",
+"belly": "#e8dcc5",
+"stripe": "#5e4a33"
+},
+"grey": {
+"base": "#9aa3b0",
+"belly": "#eef0f3",
+"stripe": "#6f7886"
+},
+"black": {
+"base": "#37343f",
+"belly": "#5a5666",
+"stripe": "#24212b"
+},
+"kitten": {
+"base": "#f4aa5a",
+"belly": "#fff0d6",
+"stripe": "#d98036"
+}
+},
+"outfits": {
+"sailor": {
+"shirt": "#f4f1ea",
+"stripe": "#2b4a85",
+"hat": "sailor",
+"hatc": "#f8f6f0",
+"hatc2": "#2b4a85"
+},
+"captain": {
+"shirt": "#f4f1ea",
+"stripe": null,
+"hat": "captain",
+"hatc": "#f8f6f0",
+"hatc2": "#1d2230"
+},
+"pirate": {
+"shirt": "#2a2630",
+"stripe": "#b8332f",
+"hat": "bandana",
+"hatc": "#c23a34",
+"hatc2": "#ffffff"
+},
+"raincoat": {
+"shirt": "#f6c22a",
+"stripe": null,
+"hat": "straw",
+"hatc": "#e8b94a",
+"hatc2": "#c24a2a"
+},
+"hoodie": {
+"shirt": "#4f86d6",
+"stripe": null,
+"hat": "beanie",
+"hatc": "#e8604c",
+"hatc2": "#ffffff"
+},
+"royal": {
+"shirt": "#7a4fb8",
+"stripe": null,
+"hat": "crown",
+"hatc": "#ffcc3a",
+"hatc2": "#d6313e"
+}
+},
+"helpers": [
+[
+"kitten",
+"kitten",
+"sailor"
+],
+[
+"tabby",
+"tabby",
+"raincoat"
+],
+[
+"ginger",
+"ginger",
+"hoodie"
+],
+[
+"murka",
+"grey",
+"pirate"
+],
+[
+"captain",
+"black",
+"captain"
+]
+]
+}

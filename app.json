@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Улов",
+    "slug": "ulov",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#FBF5EA",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFB27A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.diluk.ulov",
+      "appleTeamId": "RH67B2MANC",
+      "buildNumber": "1",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "CFBundleDisplayName": "Улов",
+        "CFBundleLocalizations": ["ru", "en"],
+        "CFBundleDevelopmentRegion": "ru"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-audio",
+      ["expo-notifications", { "sounds": [] }]
+    ],
+    "owner": "woilet"
+  }
+}

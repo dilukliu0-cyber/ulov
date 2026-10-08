@@ -1,0 +1,314 @@
+{
+"roach": {
+"base": "#8fb0c8",
+"belly": "#eef3f6",
+"fin": "#e2603f",
+"arch": "std"
+},
+"perch": {
+"base": "#6f9248",
+"belly": "#efe6a6",
+"fin": "#e4663a",
+"stripe": "#2f4a2a",
+"stripe_n": 6,
+"arch": "std"
+},
+"bleak": {
+"base": "#b9cfdc",
+"belly": "#ffffff",
+"fin": "#d9e4ea",
+"arch": "std"
+},
+"crucian": {
+"base": "#c99b4a",
+"belly": "#ecd89e",
+"fin": "#b86a3a",
+"arch": "std"
+},
+"gudgeon": {
+"base": "#8d7e58",
+"belly": "#e6dcbc",
+"fin": "#b9a77a",
+"spot": "#4d3f27",
+"spot_n": 9,
+"arch": "std"
+},
+"bream": {
+"base": "#b3a982",
+"belly": "#e9e2c4",
+"fin": "#6f6a60",
+"arch": "std"
+},
+"tench": {
+"base": "#617f40",
+"belly": "#bbb15f",
+"fin": "#3f5a2c",
+"arch": "std"
+},
+"ide": {
+"base": "#cfa94d",
+"belly": "#f0e2ad",
+"fin": "#d4452f",
+"arch": "std"
+},
+"burbot": {
+"base": "#6e5d3b",
+"belly": "#d9cfa6",
+"fin": "#4d3f27",
+"spot": "#34291a",
+"spot_n": 6,
+"arch": "std"
+},
+"goldcarp": {
+"base": "#f3b833",
+"belly": "#fde7a0",
+"fin": "#f08a2a",
+"glow": "#ffcf4a",
+"glow_s": 0.18,
+"arch": "std"
+},
+"anchovy": {
+"base": "#7fa9cc",
+"belly": "#f3f7fa",
+"fin": "#c8dbe8",
+"arch": "std"
+},
+"mullet": {
+"base": "#b9c6cf",
+"belly": "#f2f5f7",
+"fin": "#98a8b3",
+"stripe": "#6e7f8b",
+"stripe_n": 7,
+"stripe_axis": "Z",
+"arch": "std"
+},
+"flounder": {
+"base": "#a07d52",
+"belly": "#cbb08a",
+"fin": "#8a6a44",
+"spot": "#5f4328",
+"spot_n": 7,
+"arch": "flat"
+},
+"mackerel": {
+"base": "#2f8294",
+"belly": "#e8f1f2",
+"fin": "#2a6e80",
+"stripe": "#0f3f4c",
+"stripe_n": 10,
+"arch": "std"
+},
+"goby": {
+"base": "#80704f",
+"belly": "#d8caa4",
+"fin": "#5e5038",
+"spot": "#3b2f1c",
+"spot_n": 8,
+"arch": "std"
+},
+"seabass": {
+"base": "#a8b8c6",
+"belly": "#f3f6f8",
+"fin": "#7d95ab",
+"arch": "std"
+},
+"mullet_red": {
+"base": "#e5776a",
+"belly": "#f9d6c8",
+"fin": "#f2c24a",
+"arch": "std"
+},
+"scorpion": {
+"base": "#c9502f",
+"belly": "#e8a07a",
+"fin": "#a63c22",
+"spot": "#7a2a1a",
+"spot_n": 8,
+"arch": "std"
+},
+"twilightkoi": {
+"base": "#8f6fd6",
+"belly": "#e1d4ff",
+"fin": "#c6a8ff",
+"spot": "#ffffff",
+"spot_n": 3.2,
+"glow": "#9b6bff",
+"glow_s": 0.35,
+"arch": "std"
+},
+"stingray": {
+"base": "#6f8398",
+"belly": "#dfe7ee",
+"fin": "#58697a",
+"spot": "#c9d7e3",
+"spot_n": 6,
+"arch": "ray"
+},
+"herring": {
+"base": "#6d98bd",
+"belly": "#eef4f8",
+"fin": "#9fbad0",
+"arch": "std"
+},
+"sardine": {
+"base": "#5d8fb2",
+"belly": "#f2f7fa",
+"fin": "#a6c2d6",
+"spot": "#1f3f56",
+"spot_n": 11,
+"arch": "std"
+},
+"tuna": {
+"base": "#2a4d86",
+"belly": "#e1e8f0",
+"fin": "#f2c230",
+"arch": "std"
+},
+"barracuda": {
+"base": "#b0bac2",
+"belly": "#f1f4f6",
+"fin": "#7c8a94",
+"stripe": "#59656e",
+"stripe_n": 9,
+"arch": "std"
+},
+"mahi": {
+"base": "#2fb36a",
+"belly": "#f6d84a",
+"fin": "#2fb3a6",
+"spot": "#2f7fd1",
+"spot_n": 8,
+"arch": "std"
+},
+"swordfish": {
+"base": "#3b5f8d",
+"belly": "#dce6f0",
+"fin": "#2a4468",
+"arch": "std"
+},
+"moray": {
+"base": "#8c8d3d",
+"belly": "#d5d38a",
+"fin": "#7a7b30",
+"spot": "#3f4015",
+"spot_n": 9,
+"arch": "eel"
+},
+"catshark": {
+"base": "#7d8e9d",
+"belly": "#f1f4f6",
+"fin": "#5e707f",
+"spot": "#47566a",
+"spot_n": 9,
+"arch": "shark"
+},
+"sailfish": {
+"base": "#2166d8",
+"belly": "#dce8f8",
+"fin": "#2d86f0",
+"spot": "#0c2f78",
+"spot_n": 7,
+"glow": "#3a8bff",
+"glow_s": 0.3,
+"arch": "std"
+},
+"whiteshark": {
+"base": "#8a98a6",
+"belly": "#fafbfc",
+"fin": "#667583",
+"arch": "shark"
+},
+"blobfish": {
+"base": "#e8a6a2",
+"belly": "#f6d3cf",
+"fin": "#d98e8a",
+"arch": "round"
+},
+"lanternfish": {
+"base": "#1f3d66",
+"belly": "#4a79b0",
+"fin": "#2a5588",
+"spot": "#9ff4ff",
+"spot_n": 9,
+"glow": "#7ee9ff",
+"glow_s": 0.5,
+"spot_glow": 1,
+"arch": "std"
+},
+"viperfish": {
+"base": "#1e4658",
+"belly": "#5d8aa0",
+"fin": "#143543",
+"spot": "#9ff4ff",
+"spot_n": 8,
+"glow": "#6fe6ff",
+"glow_s": 0.35,
+"spot_glow": 1,
+"arch": "std"
+},
+"gulper": {
+"base": "#2a2438",
+"belly": "#4a3f60",
+"fin": "#3a3050",
+"glow": "#c06bff",
+"glow_s": 0.25,
+"arch": "eel"
+},
+"anglerfish": {
+"base": "#5b3a52",
+"belly": "#a67a8f",
+"fin": "#42283d",
+"spot": "#2d1a29",
+"spot_n": 6,
+"arch": "round"
+},
+"leviathan": {
+"base": "#9bb9e8",
+"belly": "#f1f7ff",
+"fin": "#c9dcff",
+"spot": "#ffffff",
+"spot_n": 2.4,
+"glow": "#bfe3ff",
+"glow_s": 0.45,
+"arch": "std"
+},
+"stareel": {
+"base": "#1a2a66",
+"belly": "#3b57b8",
+"fin": "#2d44a0",
+"spot": "#ffe9a0",
+"spot_n": 10,
+"glow": "#ffd96b",
+"glow_s": 0.55,
+"spot_glow": 1,
+"arch": "eel"
+},
+"ghostfish": {
+"base": "#d9ecf7",
+"belly": "#ffffff",
+"fin": "#b6dbf0",
+"glow": "#a9e6ff",
+"glow_s": 0.9,
+"arch": "std",
+"ghost": 1
+},
+"golddragon": {
+"base": "#f0b52b",
+"belly": "#ffe49a",
+"fin": "#e5532a",
+"glow": "#ffbe3a",
+"glow_s": 0.4,
+"arch": "eel"
+},
+"abyssking": {
+"base": "#22204a",
+"belly": "#4a4690",
+"fin": "#33306a",
+"spot": "#ffd36b",
+"spot_n": 7,
+"glow": "#ffc84a",
+"glow_s": 0.35,
+"spot_glow": 1,
+"arch": "round"
+}
+}
